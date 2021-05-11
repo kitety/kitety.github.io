@@ -1,0 +1,10 @@
+https://kitety.github.io/posts/football-poet-he-weis-classic-commentary-poems.html
+https://kitety.github.io/posts/thoughts-on-drawing-dotted-lines.html
+https://kitety.github.io/posts/8-tips-to-make-you-a-better-developer.html
+https://kitety.github.io/posts/end-of-2020-inspiration.html
+https://kitety.github.io/posts/vscode-js-debugging-skills.html
+https://kitety.github.io/posts/git-modify-commit-information.html
+https://kitety.github.io/posts/realize-your-own-react-rendering-class-component.html
+https://kitety.github.io/posts/realize-your-own-react-rendering-native-dom.html
+https://kitety.github.io/posts/realize-your-own-react-rendering-strings-and-numbers.html
+https://kitety.github.io/posts/basic-preparation-for-implementing-your-own-react.html
