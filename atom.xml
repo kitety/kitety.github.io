@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>别样</title>
+  
+  <subtitle>独特为佳</subtitle>
+  <link href="https://kitety.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://kitety.github.io/"/>
+  <updated>2024-08-09T14:44:23.829Z</updated>
+  <id>https://kitety.github.io/</id>
+  
+  <author>
+    <name>kitety</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客更换网址</title>
+    <link href="https://kitety.github.io/posts/blog-change-url.html"/>
+    <id>https://kitety.github.io/posts/blog-change-url.html</id>
+    <published>2022-11-20T06:21:57.000Z</published>
+    <updated>2024-08-09T14:44:23.829Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CS 61 A (Part 4)</title>
+    <link href="https://kitety.github.io/posts/cs-61a-4.html"/>
+    <id>https://kitety.github.io/posts/cs-61a-4.html</id>
+    <published>2022-10-16T03:16:56.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;CS-61-A-Part-4&quot;   &gt;
+          &lt;a href=&quot;#CS-61-A-Part-4&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#CS-61-A-Part-4&quot; class=&quot;headerlink&quot; title=&quot;CS 61 A (Part 4)&quot;&gt;&lt;/a&gt;CS 61 A (Part 4)&lt;/h1&gt;
+      &lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/image/cs61a/4/Untitled.png&quot;  alt=&quot;Untitled&quot;&gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="CS" scheme="https://kitety.github.io/tags/CS/"/>
+    
+    <category term="CS61A" scheme="https://kitety.github.io/tags/CS61A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CS 61 A (Part 3)</title>
+    <link href="https://kitety.github.io/posts/cs-61a-3.html"/>
+    <id>https://kitety.github.io/posts/cs-61a-3.html</id>
+    <published>2022-10-16T03:11:55.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;CS-61-A-Part-3&quot;   &gt;
+          &lt;a href=&quot;#CS-61-A-Part-3&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#CS-61-A-Part-3&quot; class=&quot;headerlink&quot; title=&quot;CS 61 A (Part 3)&quot;&gt;&lt;/a&gt;CS 61 A (Part 3)&lt;/h1&gt;
+      &lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/image/cs61a/3//Untitled.png&quot;  alt=&quot;Untitled&quot;&gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="CS" scheme="https://kitety.github.io/tags/CS/"/>
+    
+    <category term="CS61A" scheme="https://kitety.github.io/tags/CS61A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CS 61 A (Part 2)</title>
+    <link href="https://kitety.github.io/posts/cs-61a-2.html"/>
+    <id>https://kitety.github.io/posts/cs-61a-2.html</id>
+    <published>2022-10-16T02:59:26.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;CS-61-A-Part-2&quot;   &gt;
+          &lt;a href=&quot;#CS-61-A-Part-2&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#CS-61-A-Part-2&quot; class=&quot;headerlink&quot; title=&quot;CS 61 A (Part 2)&quot;&gt;&lt;/a&gt;CS 61 A (Part 2)&lt;/h1&gt;
+      &lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/image/cs61a/2/Untitled.png&quot;  alt=&quot;Untitled&quot;&gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="CS" scheme="https://kitety.github.io/tags/CS/"/>
+    
+    <category term="CS61A" scheme="https://kitety.github.io/tags/CS61A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CS 61 A (Part 1)</title>
+    <link href="https://kitety.github.io/posts/cs-61a-1.html"/>
+    <id>https://kitety.github.io/posts/cs-61a-1.html</id>
+    <published>2022-10-16T02:49:13.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;CS-61-A-Part-1&quot;   &gt;
+          &lt;a href=&quot;#CS-61-A-Part-1&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#CS-61-A-Part-1&quot; class=&quot;headerlink&quot; title=&quot;CS 61 A (Part 1)&quot;&gt;&lt;/a&gt;CS 61 A (Part 1)&lt;/h1&gt;
+      &lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/image/202210161054534.png&quot;  alt=&quot;Untitled&quot;&gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="CS" scheme="https://kitety.github.io/tags/CS/"/>
+    
+    <category term="CS61A" scheme="https://kitety.github.io/tags/CS61A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mysql 学习笔记</title>
+    <link href="https://kitety.github.io/posts/mysql-study-note.html"/>
+    <id>https://kitety.github.io/posts/mysql-study-note.html</id>
+    <published>2022-09-04T09:54:20.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;   &gt;
+          &lt;a href=&quot;#前言&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
+      &lt;p&gt;用一篇文章来记录我的Mysql学习笔记。&lt;br&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/image/20220904180157.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="mysql" scheme="https://kitety.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nestjs学习笔记</title>
+    <link href="https://kitety.github.io/posts/nestjs-study-notes.html"/>
+    <id>https://kitety.github.io/posts/nestjs-study-notes.html</id>
+    <published>2022-08-29T15:58:33.000Z</published>
+    <updated>2024-08-09T14:44:23.829Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/image/20220830000642.png&quot; &gt;
+      &lt;/p&gt;
+
+        &lt;h1 id=&quot;mysql-的安装信息&quot;   &gt;
+          &lt;a href=&quot;#mysql-的安装信息&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#mysql-的安装信息&quot; class=&quot;headerlink&quot; title=&quot;mysql 的安装信息&quot;&gt;&lt;/a&gt;mysql 的安装信息&lt;/h1&gt;
+      &lt;blockquote&gt;
+&lt;p&gt;C:&#92;Users&#92;kitety&amp;gt;mysqld –initialize –console&lt;br&gt;2021-12-31T13:48:46.173370Z 0 [System] [MY-013169] [Server] D:&#92;fav&#92;mysql-8.0.27-winx64&#92;bin&#92;mysqld.exe (mysqld 8.0.27) initializing of server in progress as process 8884&lt;br&gt;2021-12-31T13:48:46.352720Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.&lt;br&gt;2021-12-31T13:48:52.446815Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.&lt;br&gt;2021-12-31T13:49:10.994404Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main&lt;br&gt;2021-12-31T13:49:10.994556Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main&lt;br&gt;2021-12-31T13:49:11.166673Z 6 [Note] [MY-010454] [Server] A temporary password is generated for root@localhost: CktOrXq9ru&amp;amp;w&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;输入net start mysql或sc start mysql&lt;/p&gt;
+&lt;p&gt;启动mysql服务&lt;/p&gt;
+&lt;p&gt;ALTER USER ‘root’@’localhost’ IDENTIFIED WITH mysql_native_password BY ‘123456’;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Nextjs" scheme="https://kitety.github.io/tags/Nextjs/"/>
+    
+    <category term="JS" scheme="https://kitety.github.io/tags/JS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RXJS入门分享之Observable、Operators</title>
+    <link href="https://kitety.github.io/posts/observable-and-operators-shared-by-rxjs-entry.html"/>
+    <id>https://kitety.github.io/posts/observable-and-operators-shared-by-rxjs-entry.html</id>
+    <published>2022-08-29T15:25:25.000Z</published>
+    <updated>2024-08-09T14:44:23.829Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;RX的发展&quot;   &gt;
+          &lt;a href=&quot;#RX的发展&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#RX的发展&quot; class=&quot;headerlink&quot; title=&quot;RX的发展&quot;&gt;&lt;/a&gt;&lt;strong&gt;RX的发展&lt;/strong&gt;&lt;/h3&gt;
+      &lt;p&gt;源自微软，火于&lt;strong&gt;Netflix&lt;/strong&gt;(奈飞)公司。2011年微软开发出RX框架(开发的LinQ扩展出来的开源方案)，由于当时的&lt;strong&gt;Netflix&lt;/strong&gt;公司发展太快，旧有的一些架构问题加上新增长的一些问题，导致架构特别复杂，一直在寻找一套能够梳理清楚这种复杂架构的框架或模式。&lt;strong&gt;Netflix&lt;/strong&gt;公司借鉴了RX的设计理念，基于JAVA语言开发出了RxJava。从此RX这种理念迎来了爆发。发展至今，RX已经形成了一个开源集合，支持多种语言。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;RX支持的语言：&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;http://reactivex.io/languages.html&quot; &gt;http://reactivex.io/languages.html&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20220829233509.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="RXJS" scheme="https://kitety.github.io/tags/RXJS/"/>
+    
+    <category term="前端" scheme="https://kitety.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>oh-my-zsh中的git alias整理</title>
+    <link href="https://kitety.github.io/posts/git-alias-in-ohmyzsh.html"/>
+    <id>https://kitety.github.io/posts/git-alias-in-ohmyzsh.html</id>
+    <published>2022-06-08T13:31:25.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;终端&quot;   &gt;
+          &lt;a href=&quot;#终端&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#终端&quot; class=&quot;headerlink&quot; title=&quot;终端&quot;&gt;&lt;/a&gt;终端&lt;/h2&gt;
+      &lt;p&gt;我的终端使用的是zsh，并且安装了oh-my-zsh，因此内置了一些Git的alias，因此做一个归纳和整理。&lt;/p&gt;
+
+        &lt;h2 id=&quot;查看方法&quot;   &gt;
+          &lt;a href=&quot;#查看方法&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#查看方法&quot; class=&quot;headerlink&quot; title=&quot;查看方法&quot;&gt;&lt;/a&gt;查看方法&lt;/h2&gt;
+      &lt;p&gt;如果需要查看，只需要查看&lt;code&gt;~/.oh-my-zsh/plugins/git/git.plugin.zsh&lt;/code&gt;这个文件就可以了&lt;/p&gt;
+
+        &lt;h2 id=&quot;别名列表&quot;   &gt;
+          &lt;a href=&quot;#别名列表&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#别名列表&quot; class=&quot;headerlink&quot; title=&quot;别名列表&quot;&gt;&lt;/a&gt;别名列表&lt;/h2&gt;
+      &lt;p&gt;在此，顺便列出alias的内容，方便查看。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Git" scheme="https://kitety.github.io/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RXJS学习</title>
+    <link href="https://kitety.github.io/posts/rxjs-learning.html"/>
+    <id>https://kitety.github.io/posts/rxjs-learning.html</id>
+    <published>2022-04-11T11:30:35.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;RxJS-学习&quot;   &gt;
+          &lt;a href=&quot;#RxJS-学习&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#RxJS-学习&quot; class=&quot;headerlink&quot; title=&quot;RxJS 学习&quot;&gt;&lt;/a&gt;RxJS 学习&lt;/h1&gt;
+      &lt;p&gt;Reactive 响应式编程是一种思维模式，并且针对各种语言都有其各自的实现，如：RxJava、RxGo、RxJS 等等。&lt;/p&gt;
+&lt;p&gt;在前端领域 Reactive 响应式使用的比较多的 RxJS，比如在&lt;strong&gt;Angular&lt;/strong&gt;和&lt;strong&gt;Nestjs&lt;/strong&gt;等框架中就有内置 RxJS。&lt;/p&gt;
+&lt;p&gt;RxJS 是 Reactive Extensions for JavaScript 的缩写，起源于 Reactive Extensions，是一个基于可观测数据流 Stream 结合观察者模式和迭代器模式的一种异步编程的应用库。&lt;/p&gt;
+&lt;p&gt;官网声称可以讲 Rxjs 理解为处理事件的“Lodash”&lt;br&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20220411193345.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="RXJS" scheme="https://kitety.github.io/tags/RXJS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录一次前端报错的问题排查</title>
+    <link href="https://kitety.github.io/posts/record-a-front-end-error-troubleshooting.html"/>
+    <id>https://kitety.github.io/posts/record-a-front-end-error-troubleshooting.html</id>
+    <published>2021-12-26T14:15:23.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;一、事情起因&quot;   &gt;
+          &lt;a href=&quot;#一、事情起因&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#一、事情起因&quot; class=&quot;headerlink&quot; title=&quot;一、事情起因&quot;&gt;&lt;/a&gt;一、事情起因&lt;/h2&gt;
+      &lt;p&gt;开始项目是有两个功能分开进行开发的，后面想着可以一起测试上线，就合并到一起进行构建，当发布到测试环境的时候，报了一个之前从来没有见过的错。&lt;br&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20211226221659.png&quot; &gt;
+      &lt;/p&gt;
+&lt;p&gt;错误所指向的链接地址也不知所云：&lt;/p&gt;
+&lt;p&gt;1.Uncaught Error: Minified React error #130&lt;/p&gt;
+&lt;p&gt;2.Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined.&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="心得" scheme="https://kitety.github.io/tags/%E5%BF%83%E5%BE%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>足球诗人：贺炜经典解说台词语录</title>
+    <link href="https://kitety.github.io/posts/football-poet-he-weis-classic-commentary-poems.html"/>
+    <id>https://kitety.github.io/posts/football-poet-he-weis-classic-commentary-poems.html</id>
+    <published>2021-05-11T14:28:10.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;div style=&quot;width:100%;height:0px;position:relative;padding-bottom:56.327%;&quot;&gt;&lt;iframe src=&quot;https://streamja.com/embed/P3vll&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;100%&quot; allowfullscreen style=&quot;width:100%;height:100%;position:absolute;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+        &lt;h3 id=&quot;贺炜诗意点评德法大战&quot;   &gt;
+          &lt;a href=&quot;#贺炜诗意点评德法大战&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#贺炜诗意点评德法大战&quot; class=&quot;headerlink&quot; title=&quot;贺炜诗意点评德法大战&quot;&gt;&lt;/a&gt;贺炜诗意点评德法大战&lt;/h3&gt;
+      &lt;blockquote&gt;
+&lt;p&gt;他们会明白莫泊桑的一句话&lt;br&gt;生活可能不像你想象的那么好&lt;br&gt;但是也不会像你想象的那么糟&lt;br&gt;人的脆弱和坚强都超乎了自己的想象&lt;br&gt;有时候可能脆弱的一句话就泪流满面&lt;br&gt;有时候你发现自己咬着牙已经走过了很长的路&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于画点连线的思考</title>
+    <link href="https://kitety.github.io/posts/thoughts-on-drawing-dotted-lines.html"/>
+    <id>https://kitety.github.io/posts/thoughts-on-drawing-dotted-lines.html</id>
+    <published>2021-03-20T11:00:23.000Z</published>
+    <updated>2024-08-09T14:44:23.829Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;   &gt;
+          &lt;a href=&quot;#前言&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
+      &lt;p&gt;点和线是平面世界的基础，而画点连线更是基本操作。但是关于画点连线的方法，以及所能带来的思考，也是蛮有意思的。&lt;/p&gt;
+&lt;p&gt;在这片文章中，我会简单分析画点连线的基本方法。&lt;br&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20210404111938.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="算法" scheme="https://kitety.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>8个小技巧让你成为更好的开发</title>
+    <link href="https://kitety.github.io/posts/8-tips-to-make-you-a-better-developer.html"/>
+    <id>https://kitety.github.io/posts/8-tips-to-make-you-a-better-developer.html</id>
+    <published>2021-02-26T03:04:33.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20210226115624.png&quot; &gt;
+      &lt;/p&gt;
+
+        &lt;h2 id=&quot;摘要&quot;   &gt;
+          &lt;a href=&quot;#摘要&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#摘要&quot; class=&quot;headerlink&quot; title=&quot;摘要&quot;&gt;&lt;/a&gt;摘要&lt;/h2&gt;
+      &lt;p&gt;本文主要讲了 8 个小技巧，让你知道如何安排你的工作日和休息时间，以及使用小技巧的重要原因。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="翻译" scheme="https://kitety.github.io/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020年末启示</title>
+    <link href="https://kitety.github.io/posts/end-of-2020-inspiration.html"/>
+    <id>https://kitety.github.io/posts/end-of-2020-inspiration.html</id>
+    <published>2021-01-04T02:38:03.000Z</published>
+    <updated>2024-08-09T14:44:23.829Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="心得" scheme="https://kitety.github.io/tags/%E5%BF%83%E5%BE%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VSCODE JS调试技巧</title>
+    <link href="https://kitety.github.io/posts/vscode-js-debugging-skills.html"/>
+    <id>https://kitety.github.io/posts/vscode-js-debugging-skills.html</id>
+    <published>2020-12-16T03:46:52.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;   &gt;
+          &lt;a href=&quot;#前言&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
+      &lt;p&gt;我们在编码过程中，会经常遇到调试的场景。VSCODE 是我经常使用的编辑器，接下来我就将简单记录几种 VSCODE 调试的方式，如果想看完整的 VSCODE 调试内容请前往&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://code.visualstudio.com/docs/editor/debugging&quot; &gt;官方地址&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;。&lt;/p&gt;
+&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/2020-12-16/1608099048983-image.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="DEBUG" scheme="https://kitety.github.io/tags/DEBUG/"/>
+    
+    <category term="VSCODE" scheme="https://kitety.github.io/tags/VSCODE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git修改Commit信息</title>
+    <link href="https://kitety.github.io/posts/git-modify-commit-information.html"/>
+    <id>https://kitety.github.io/posts/git-modify-commit-information.html</id>
+    <published>2020-12-07T05:48:30.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/2020-12-7/1607320222725-image.png&quot; &gt;
+      &lt;/p&gt;
+
+        &lt;h2 id=&quot;背景&quot;   &gt;
+          &lt;a href=&quot;#背景&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;
+      &lt;p&gt;在我们的业务开发中，最常见的就是使用&lt;code&gt;Git&lt;/code&gt;对代码进行版本控制。随之衍生的，就是有可能会遇到修改 Commit Message 的场景，今天我们来总结一下这些基本的操作。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Git" scheme="https://kitety.github.io/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实现自己的React之渲染Class Component</title>
+    <link href="https://kitety.github.io/posts/realize-your-own-react-rendering-class-component.html"/>
+    <id>https://kitety.github.io/posts/realize-your-own-react-rendering-class-component.html</id>
+    <published>2020-11-05T14:25:17.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;   &gt;
+          &lt;a href=&quot;#前言&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
+      &lt;p&gt;之前我们已经实现了字符串和数字、原生 DOM 的渲染，接下来我们将渲染 Class Component。&lt;/p&gt;
+&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/2020-11-5/1604586613544-image.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>实现自己的React之渲染原生DOM</title>
+    <link href="https://kitety.github.io/posts/realize-your-own-react-rendering-native-dom.html"/>
+    <id>https://kitety.github.io/posts/realize-your-own-react-rendering-native-dom.html</id>
+    <published>2020-10-29T12:27:21.000Z</published>
+    <updated>2024-08-09T14:44:23.829Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;   &gt;
+          &lt;a href=&quot;#前言&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
+      &lt;p&gt;之前我们已经用比较规范的方式实现了字符串和数字的渲染，接下来我们将渲染原生 DOM。&lt;br&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/2020-11-3/1604368409871-image.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="React" scheme="https://kitety.github.io/tags/React/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实现自己的React之渲染字符串和数字</title>
+    <link href="https://kitety.github.io/posts/realize-your-own-react-rendering-strings-and-numbers.html"/>
+    <id>https://kitety.github.io/posts/realize-your-own-react-rendering-strings-and-numbers.html</id>
+    <published>2020-10-28T11:59:23.000Z</published>
+    <updated>2024-08-09T14:44:23.829Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;   &gt;
+          &lt;a href=&quot;#前言&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
+      &lt;p&gt;在上一篇文章中我们已经渲染了我们的字符串到 id 为 root 的元素上，但是用的是直接操作 DOM，我们会在后面逐渐的完善它。&lt;/p&gt;
+&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20201028205234.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="React" scheme="https://kitety.github.io/tags/React/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实现自己的React之基础准备</title>
+    <link href="https://kitety.github.io/posts/basic-preparation-for-implementing-your-own-react.html"/>
+    <id>https://kitety.github.io/posts/basic-preparation-for-implementing-your-own-react.html</id>
+    <published>2020-10-27T12:54:36.000Z</published>
+    <updated>2024-08-09T14:44:23.829Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;   &gt;
+          &lt;a href=&quot;#前言&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
+      &lt;p&gt;现在的工作中已经用过&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://reactjs.org/&quot; &gt;React&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;一段时间了，然后就想好好深入学习一下，尝试着写一个简单的 demo 来体验一下。&lt;br&gt;学习事物都有个过程，大概是了解、熟悉、深入。自己做到理解只是第一步，&lt;strong&gt;真正的掌握是能够完全向别人讲清楚&lt;/strong&gt;。因此我就想写下笔记，争取向别人讲清楚，也激励自己学习。&lt;br&gt;&lt;strong&gt;注意，本次会先实现简单的 React 15.x 版本，React Fiber 版本会在后面推出&lt;/strong&gt;&lt;br&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20201027205937.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="React" scheme="https://kitety.github.io/tags/React/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github在线IDE初体验</title>
+    <link href="https://kitety.github.io/posts/github-online-ide-first-experience.html"/>
+    <id>https://kitety.github.io/posts/github-online-ide-first-experience.html</id>
+    <published>2020-10-14T13:21:27.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;之前就有听说 Github 将推出在线 IDE，一搜索发现很多结果。&lt;br&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20201014212657.png&quot; &gt;
+      &lt;/p&gt;
+&lt;p&gt;现在 Github 的在线 IDE 发布一段时间了，官方命名为：&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://github.com/features/codespaces&quot; &gt;Github Codespaces&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;（点击可以申请），今天我们就来体验一下。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Github" scheme="https://kitety.github.io/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github和Gitee同步中的坑</title>
+    <link href="https://kitety.github.io/posts/pitfalls-in-github-and-gitee-synchronization.html"/>
+    <id>https://kitety.github.io/posts/pitfalls-in-github-and-gitee-synchronization.html</id>
+    <published>2020-10-09T07:50:48.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;最近在做 Github Pages 到 Gitee Pages 的同步操作，做个镜像备份&lt;/p&gt;
+
+        &lt;h2 id=&quot;仓库同步&quot;   &gt;
+          &lt;a href=&quot;#仓库同步&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#仓库同步&quot; class=&quot;headerlink&quot; title=&quot;仓库同步&quot;&gt;&lt;/a&gt;仓库同步&lt;/h2&gt;
+      &lt;p&gt;我的博客构建使用的是 Github Action，因此同步功能使用的是&lt;a href=&quot;https://github.com/wearerequired/git-mirror-action&quot;&gt;&lt;code&gt;wearerequired/git-mirror-action@master&lt;/code&gt;&lt;/a&gt;。因为 Gitee Page 的并不会随着仓库更新主动更新，因此还需要&lt;a href=&quot;https://github.com/yanglbme/gitee-pages-action&quot;&gt;&lt;code&gt;yanglbme/gitee-pages-action@master&lt;/code&gt;&lt;/a&gt;做一个 build 的操作。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Hexo" scheme="https://kitety.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>请珍惜你的社交信用</title>
+    <link href="https://kitety.github.io/posts/please-cherish-your-social-credit.html"/>
+    <id>https://kitety.github.io/posts/please-cherish-your-social-credit.html</id>
+    <published>2020-09-28T04:59:03.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="心得" scheme="https://kitety.github.io/tags/%E5%BF%83%E5%BE%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TS学习及type-challenges实操</title>
+    <link href="https://kitety.github.io/posts/ts-learning-and-typechallenges-practice.html"/>
+    <id>https://kitety.github.io/posts/ts-learning-and-typechallenges-practice.html</id>
+    <published>2020-09-22T04:48:14.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20200922125418.png&quot; &gt;
+      &lt;br&gt;之前朋友分享过一个仓库叫做&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://github.com/type-challenges/type-challenges&quot; &gt;type-challenges&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;，里面的内容类似于用 TS 来“做题”，简而言之就是类型编程。&lt;/p&gt;
+&lt;p&gt;因为我之前也学习过 TypeScript，在工作也使用过，因此想借此机会巩固一番。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;温故而知新，可以为师矣。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+    <category term="TypeScript" scheme="https://kitety.github.io/tags/TypeScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo添加动态背景</title>
+    <link href="https://kitety.github.io/posts/hexo-add-dynamic-background.html"/>
+    <id>https://kitety.github.io/posts/hexo-add-dynamic-background.html</id>
+    <published>2020-09-04T07:07:33.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;发现&quot;   &gt;
+          &lt;a href=&quot;#发现&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#发现&quot; class=&quot;headerlink&quot; title=&quot;发现&quot;&gt;&lt;/a&gt;发现&lt;/h2&gt;
+      &lt;p&gt;本来想为 hexo 设置背景图片，又不想单调的只有一张图，碰巧发现知乎有个问题：&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://www.zhihu.com/question/21168322&quot; &gt;哪里有获取随机图片的服务接口？&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;，因此就准备加到博客里面，这样也好看一些。&lt;/p&gt;
+&lt;p&gt;注意这张图的地址是&lt;code&gt;api&lt;/code&gt;，返回是随机的。&lt;br&gt;
+        &lt;img     class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://unsplash.it/1920/1080/?random&quot;  style=&quot;&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Hexo" scheme="https://kitety.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>再学一次JS原型</title>
+    <link href="https://kitety.github.io/posts/learn-js-prototype-again.html"/>
+    <id>https://kitety.github.io/posts/learn-js-prototype-again.html</id>
+    <published>2020-08-23T08:09:51.000Z</published>
+    <updated>2024-08-09T14:44:23.829Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;忘却的知识需要复习&quot;   &gt;
+          &lt;a href=&quot;#忘却的知识需要复习&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#忘却的知识需要复习&quot; class=&quot;headerlink&quot; title=&quot;忘却的知识需要复习&quot;&gt;&lt;/a&gt;忘却的知识需要复习&lt;/h2&gt;
+      &lt;p&gt;看到这张图的时候感觉很乱，心中已经忘却的原型知识明显招架不住，因此就需要重新整理一下了。&lt;br&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20200823161711.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="JS" scheme="https://kitety.github.io/tags/JS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CICD实战之Jenkins构建前端镜像并上传到制品库</title>
+    <link href="https://kitety.github.io/posts/cicd-actual-combat-jenkins-builds-a-frontend-image-and-uploads-it-to-the-product-library.html"/>
+    <id>https://kitety.github.io/posts/cicd-actual-combat-jenkins-builds-a-frontend-image-and-uploads-it-to-the-product-library.html</id>
+    <published>2020-08-09T10:41:29.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;目的&quot;   &gt;
+          &lt;a href=&quot;#目的&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#目的&quot; class=&quot;headerlink&quot; title=&quot;目的&quot;&gt;&lt;/a&gt;目的&lt;/h2&gt;
+      &lt;p&gt;之前的前端构建部署，是通过 scp 传输 dist 的全部文件到指定目录实现部署，这次我们将学习利用 Jenkins 构建 docker 前端镜像并上传到制品库实现部署。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="CICD" scheme="https://kitety.github.io/tags/CICD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CICD实战之Nexus制品库的介绍与安装</title>
+    <link href="https://kitety.github.io/posts/introduction-and-installation-of-nexus-product-library-cicd-actual-combat.html"/>
+    <id>https://kitety.github.io/posts/introduction-and-installation-of-nexus-product-library-cicd-actual-combat.html</id>
+    <published>2020-08-08T15:25:46.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;目的&quot;   &gt;
+          &lt;a href=&quot;#目的&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#目的&quot; class=&quot;headerlink&quot; title=&quot;目的&quot;&gt;&lt;/a&gt;目的&lt;/h2&gt;
+      &lt;p&gt;学习 Nexus 制品库的介绍与安装&lt;/p&gt;
+
+        &lt;h2 id=&quot;介绍&quot;   &gt;
+          &lt;a href=&quot;#介绍&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;
+      &lt;p&gt;在前面我们写到，制品库是&lt;strong&gt;承接 CI 构建后的产出制品的仓库&lt;/strong&gt;，具有版本管理，历史管理，权限校验等功能。&lt;/p&gt;
+&lt;p&gt;在这里，我们选用 Nexus3 作为制品库。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="CICD" scheme="https://kitety.github.io/tags/CICD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CICD实战之Jenkins Gitlab 实现前端构建</title>
+    <link href="https://kitety.github.io/posts/cicd-actual-combat-jenkins-gitlab-to-achieve-frontend-construction.html"/>
+    <id>https://kitety.github.io/posts/cicd-actual-combat-jenkins-gitlab-to-achieve-frontend-construction.html</id>
+    <published>2020-08-01T08:20:01.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;目的&quot;   &gt;
+          &lt;a href=&quot;#目的&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#目的&quot; class=&quot;headerlink&quot; title=&quot;目的&quot;&gt;&lt;/a&gt;目的&lt;/h2&gt;
+      &lt;p&gt;Jenkins + Gitlab 实现前端构建&lt;/p&gt;
+
+        &lt;h2 id=&quot;正式开始&quot;   &gt;
+          &lt;a href=&quot;#正式开始&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#正式开始&quot; class=&quot;headerlink&quot; title=&quot;正式开始&quot;&gt;&lt;/a&gt;正式开始&lt;/h2&gt;
+      
+        &lt;h3 id=&quot;Jenkins-安装-NodeJS&quot;   &gt;
+          &lt;a href=&quot;#Jenkins-安装-NodeJS&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#Jenkins-安装-NodeJS&quot; class=&quot;headerlink&quot; title=&quot;Jenkins 安装 NodeJS&quot;&gt;&lt;/a&gt;Jenkins 安装 NodeJS&lt;/h3&gt;
+      &lt;p&gt;因为在 Jenkins 构建的时候我们需要去执行一些 shell，需要用到 NodeJS，因此我们先安装 NodeJS。&lt;/p&gt;
+&lt;p&gt;在这里我们采用插件方式安装。&lt;/p&gt;
+
+        &lt;h4 id=&quot;在-Jenkins-插件管理中心搜索-NodeJS&quot;   &gt;
+          &lt;a href=&quot;#在-Jenkins-插件管理中心搜索-NodeJS&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#在-Jenkins-插件管理中心搜索-NodeJS&quot; class=&quot;headerlink&quot; title=&quot;在 Jenkins 插件管理中心搜索 NodeJS&quot;&gt;&lt;/a&gt;在 Jenkins 插件管理中心搜索 NodeJS&lt;/h4&gt;
+      &lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/2020-9-24/1600930571244-image.png&quot;  alt=&quot;image&quot;&gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="CICD" scheme="https://kitety.github.io/tags/CICD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CICD实战之Nginx搭建</title>
+    <link href="https://kitety.github.io/posts/cicd-actual-combat-nginx-construction.html"/>
+    <id>https://kitety.github.io/posts/cicd-actual-combat-nginx-construction.html</id>
+    <published>2020-07-29T02:50:34.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;目的&quot;   &gt;
+          &lt;a href=&quot;#目的&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#目的&quot; class=&quot;headerlink&quot; title=&quot;目的&quot;&gt;&lt;/a&gt;目的&lt;/h2&gt;
+      &lt;p&gt;学习 Nginx 的搭建&lt;/p&gt;
+
+        &lt;h2 id=&quot;搭建步骤&quot;   &gt;
+          &lt;a href=&quot;#搭建步骤&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#搭建步骤&quot; class=&quot;headerlink&quot; title=&quot;搭建步骤&quot;&gt;&lt;/a&gt;搭建步骤&lt;/h2&gt;
+      &lt;p&gt;这次的 Nginx 我们在一台新机器安装&lt;/p&gt;
+
+        &lt;h3 id=&quot;安装-docker&quot;   &gt;
+          &lt;a href=&quot;#安装-docker&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#安装-docker&quot; class=&quot;headerlink&quot; title=&quot;安装 docker&quot;&gt;&lt;/a&gt;安装 docker&lt;/h3&gt;
+      &lt;p&gt;&lt;a href=&quot;https://kitety.github.io/posts/bc65362f.html#docker-%E4%BB%8B%E7%BB%8D&quot;&gt;地址&lt;/a&gt;&lt;/p&gt;
+
+        &lt;h4 id=&quot;配置阿里源&quot;   &gt;
+          &lt;a href=&quot;#配置阿里源&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#配置阿里源&quot; class=&quot;headerlink&quot; title=&quot;配置阿里源&quot;&gt;&lt;/a&gt;配置阿里源&lt;/h4&gt;
+      &lt;p&gt;不配置的话速度很慢&lt;a href=&quot;https://kitety.github.io/posts/bc65362f.html#%E9%85%8D%E7%BD%AE%E9%98%BF%E9%87%8C%E4%BA%91%E6%BA%90&quot;&gt;地址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20200923200001.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="CICD" scheme="https://kitety.github.io/tags/CICD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CICD实战之Gitlab搭建</title>
+    <link href="https://kitety.github.io/posts/cicd-actual-combat-gitlab-construction.html"/>
+    <id>https://kitety.github.io/posts/cicd-actual-combat-gitlab-construction.html</id>
+    <published>2020-07-26T04:05:29.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;目的&quot;   &gt;
+          &lt;a href=&quot;#目的&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#目的&quot; class=&quot;headerlink&quot; title=&quot;目的&quot;&gt;&lt;/a&gt;目的&lt;/h2&gt;
+      &lt;p&gt;学习 Gitlab 的搭建&lt;/p&gt;
+
+        &lt;h2 id=&quot;正式开始&quot;   &gt;
+          &lt;a href=&quot;#正式开始&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#正式开始&quot; class=&quot;headerlink&quot; title=&quot;正式开始&quot;&gt;&lt;/a&gt;正式开始&lt;/h2&gt;
+      
+        &lt;h3 id=&quot;拉取-Gitlab-镜像&quot;   &gt;
+          &lt;a href=&quot;#拉取-Gitlab-镜像&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#拉取-Gitlab-镜像&quot; class=&quot;headerlink&quot; title=&quot;拉取 Gitlab 镜像&quot;&gt;&lt;/a&gt;拉取 Gitlab 镜像&lt;/h3&gt;
+      &lt;figure class=&quot;highlight bash&quot;&gt;&lt;div class=&quot;table-container&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code class=&quot;hljs bash&quot;&gt;docker pull gitlab/gitlab-ce&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;我这网速的确感人啊&lt;/p&gt;
+&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/2020-9-24/1600930371197-image.png&quot;  alt=&quot;image&quot;&gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="CICD" scheme="https://kitety.github.io/tags/CICD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CICD实战之Jenkins搭建</title>
+    <link href="https://kitety.github.io/posts/cicd-actual-combat-jenkins-construction.html"/>
+    <id>https://kitety.github.io/posts/cicd-actual-combat-jenkins-construction.html</id>
+    <published>2020-07-25T08:29:10.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;目的&quot;   &gt;
+          &lt;a href=&quot;#目的&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#目的&quot; class=&quot;headerlink&quot; title=&quot;目的&quot;&gt;&lt;/a&gt;目的&lt;/h2&gt;
+      &lt;p&gt;学习 Jenkins 的搭建&lt;/p&gt;
+
+        &lt;h2 id=&quot;准备工作&quot;   &gt;
+          &lt;a href=&quot;#准备工作&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h2&gt;
+      &lt;ul&gt;
+&lt;li&gt;机器：vmware 虚拟机安装的 centos 的最小版本&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://blog.csdn.net/babyxue/article/details/80970526&quot; &gt;教程&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;终端：zsh&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://www.jianshu.com/p/556ff130fc65&quot; &gt;教程&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;，安装了 autojump、zsh-autosuggestion 以及 zsh-syntax-highlighting 插件&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://www.zrahh.com/archives/167.html&quot; &gt;教程&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;使用的 xshell 连接 vmware，方便熟悉&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://my.oschina.net/u/4306931/blog/3226337&quot; &gt;教程&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;yum 源阿里源&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;最终终端图&lt;/p&gt;
+&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/2020-9-24/1600929878617-image.png&quot;  alt=&quot;image&quot;&gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="CICD" scheme="https://kitety.github.io/tags/CICD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CICD实战之基本介绍</title>
+    <link href="https://kitety.github.io/posts/basic-introduction-to-cicd-combat.html"/>
+    <id>https://kitety.github.io/posts/basic-introduction-to-cicd-combat.html</id>
+    <published>2020-07-24T15:25:19.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;什么是-CI-CD&quot;   &gt;
+          &lt;a href=&quot;#什么是-CI-CD&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#什么是-CI-CD&quot; class=&quot;headerlink&quot; title=&quot;什么是 CI/CD&quot;&gt;&lt;/a&gt;什么是 CI/CD&lt;/h2&gt;
+      &lt;p&gt;在软件工程中，CI / CD 或 CICD 通常是指持续集成以及持续交付或持续部署的组合实践（&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://www.redhat.com/zh/topics/devops/what-is-ci-cd&quot; &gt;具体&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;）。&lt;/p&gt;
+&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/2020-12-28/1609146550365-image.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="CICD" scheme="https://kitety.github.io/tags/CICD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mysql基础知识（一）</title>
+    <link href="https://kitety.github.io/posts/mysql-basic-knowledge-1.html"/>
+    <id>https://kitety.github.io/posts/mysql-basic-knowledge-1.html</id>
+    <published>2020-07-24T03:57:01.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;目的&quot;   &gt;
+          &lt;a href=&quot;#目的&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#目的&quot; class=&quot;headerlink&quot; title=&quot;目的&quot;&gt;&lt;/a&gt;目的&lt;/h3&gt;
+      &lt;p&gt;学习一些基本的 mysql 知识&lt;/p&gt;
+
+        &lt;h3 id=&quot;预备&quot;   &gt;
+          &lt;a href=&quot;#预备&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#预备&quot; class=&quot;headerlink&quot; title=&quot;预备&quot;&gt;&lt;/a&gt;预备&lt;/h3&gt;
+      
+        &lt;h4 id=&quot;安装-mysql&quot;   &gt;
+          &lt;a href=&quot;#安装-mysql&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#安装-mysql&quot; class=&quot;headerlink&quot; title=&quot;安装 mysql&quot;&gt;&lt;/a&gt;安装 mysql&lt;/h4&gt;
+      &lt;p&gt;&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://blog.csdn.net/u014416239/article/details/52446608&quot; &gt;安装教程地址&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+        &lt;h4 id=&quot;终端准备&quot;   &gt;
+          &lt;a href=&quot;#终端准备&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#终端准备&quot; class=&quot;headerlink&quot; title=&quot;终端准备&quot;&gt;&lt;/a&gt;终端准备&lt;/h4&gt;
+      &lt;p&gt;我这里使用的是&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://cmder.net/&quot; &gt;cmder&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;，并且设置为管理员模式，加上&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://blog.csdn.net/hicoldcat/article/details/64904652&quot; &gt;右键快捷打开&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;，挺方便的。&lt;/p&gt;
+&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20200923200457.png&quot; &gt;
+      &lt;/p&gt;
+&lt;p&gt;在准备工作完成之后，正式开始学习。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Mysql" scheme="https://kitety.github.io/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一首找了五年的歌</title>
+    <link href="https://kitety.github.io/posts/a-song-that-has-been-searched-for-five-years.html"/>
+    <id>https://kitety.github.io/posts/a-song-that-has-been-searched-for-five-years.html</id>
+    <published>2020-07-02T13:10:29.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=86 src=&quot;//music.163.com/outchain/player?type=2&amp;id=567510388&amp;auto=0&amp;height=66&quot;&gt;&lt;/iframe&gt;
+
+
+        &lt;h2 id=&quot;题记&quot;   &gt;
+          &lt;a href=&quot;#题记&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#题记&quot; class=&quot;headerlink&quot; title=&quot;题记&quot;&gt;&lt;/a&gt;题记&lt;/h2&gt;
+      &lt;blockquote&gt;
+&lt;p&gt;听听从前的歌，想起走过的路。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+        &lt;h2 id=&quot;想起了这首歌&quot;   &gt;
+          &lt;a href=&quot;#想起了这首歌&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#想起了这首歌&quot; class=&quot;headerlink&quot; title=&quot;想起了这首歌&quot;&gt;&lt;/a&gt;想起了这首歌&lt;/h2&gt;
+      &lt;p&gt;今天和朋友去西岭那边漂流，结果回来的车上有点晕车，搞得我心神不宁。因为是返程，又是从川西那边回来，心里不由自主的回想起从前的时光，然后就很想找一首歌。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="心得" scheme="https://kitety.github.io/tags/%E5%BF%83%E5%BE%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>培养自己的主人翁意识</title>
+    <link href="https://kitety.github.io/posts/cultivate-your-own-sense-of-ownership.html"/>
+    <id>https://kitety.github.io/posts/cultivate-your-own-sense-of-ownership.html</id>
+    <published>2020-07-02T13:09:11.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;缘起&quot;   &gt;
+          &lt;a href=&quot;#缘起&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#缘起&quot; class=&quot;headerlink&quot; title=&quot;缘起&quot;&gt;&lt;/a&gt;缘起&lt;/h2&gt;
+      &lt;p&gt;成长和沉淀，听起来是那么的空洞，其实本质还是在于内心的意识和格局的变化。&lt;/p&gt;
+&lt;p&gt;有时候我们经常抱怨，要是当初就想到这一点就好了；比如：当初应该早一点开始投资基金、股票，早一点阅读一些关于某某方面的书籍等等。我想这不是在于少数，我也不时有这种“马后炮”想法。归其原因，有可能是我们的社交环境造成了思维局限，还有就是自己的处理事情主观能动性。&lt;/p&gt;
+&lt;p&gt;而今天我想讲的就是一种“主人翁意识”。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="心得" scheme="https://kitety.github.io/tags/%E5%BF%83%E5%BE%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CSS 伪类合集分享</title>
+    <link href="https://kitety.github.io/posts/css-pseudoclass-collection-sharing.html"/>
+    <id>https://kitety.github.io/posts/css-pseudoclass-collection-sharing.html</id>
+    <published>2020-06-28T02:32:54.000Z</published>
+    <updated>2024-08-09T14:44:23.829Z</updated>
+    
+    
+    <summary type="html">&lt;!-- demo的样式 --&gt;
+&lt;style&gt;
+.demo{
+   border:1px dashed #ccc;
+   padding:5px;
+}
+.demo:hover{
+   box-shadow: 0 0 11px rgba(33,33,33,.2);
+}
+&lt;/style&gt;
+
+
+        &lt;h2 id=&quot;引用&quot;   &gt;
+          &lt;a href=&quot;#引用&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#引用&quot; class=&quot;headerlink&quot; title=&quot;引用&quot;&gt;&lt;/a&gt;引用&lt;/h2&gt;
+      &lt;p&gt;分享总结一下现有的伪类和简单的 demo&lt;br&gt;源地址：&lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://developer.mozilla.org/zh-CN/docs/Web/CSS/Pseudo-classes&quot; &gt;MDN&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+        &lt;h2 id=&quot;伪类&quot;   &gt;
+          &lt;a href=&quot;#伪类&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#伪类&quot; class=&quot;headerlink&quot; title=&quot;伪类&quot;&gt;&lt;/a&gt;伪类&lt;/h2&gt;
+      
+        &lt;h3 id=&quot;active&quot;   &gt;
+          &lt;a href=&quot;#active&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#active&quot; class=&quot;headerlink&quot; title=&quot;:active&quot;&gt;&lt;/a&gt;:active&lt;/h3&gt;
+      &lt;p&gt;匹配被用户激活的元素。它让页面能在浏览器监测到激活时给出反馈。当用鼠标交互时，它代表的是用户按下按键和松开按键之间的时间。&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;展开查看&lt;/summary&gt;
+&lt;figure class=&quot;highlight html&quot;&gt;&lt;div class=&quot;table-container&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code class=&quot;hljs html&quot;&gt;&lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;&lt;span class=&quot;hljs-name&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;hljs-attr&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;hljs-string&quot;&gt;&amp;quot;demo&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;  &lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;&lt;span class=&quot;hljs-name&quot;&gt;style&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;language-css&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;language-css&quot;&gt; &lt;span class=&quot;hljs-selector-class&quot;&gt;.demo&lt;/span&gt; &lt;span class=&quot;hljs-selector-class&quot;&gt;.active&lt;/span&gt;&lt;span class=&quot;hljs-selector-pseudo&quot;&gt;:active&lt;/span&gt;&amp;#123; &lt;span class=&quot;hljs-attribute&quot;&gt;color&lt;/span&gt;:red;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;language-css&quot;&gt;  &lt;/span&gt;&lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;/&lt;span class=&quot;hljs-name&quot;&gt;style&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;  &lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;&lt;span class=&quot;hljs-name&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;hljs-attr&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;hljs-string&quot;&gt;&amp;quot;active&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;鼠标按下就变为红色&lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;/&lt;span class=&quot;hljs-name&quot;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;/&lt;span class=&quot;hljs-name&quot;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;
+&lt;/details&gt;
+&lt;div class=&quot;demo&quot;&gt;
+  &lt;style&gt;
+ .demo .active:active{ color:red;}
+  &lt;/style&gt;
+  &lt;div class=&quot;active&quot;&gt;鼠标按下就变为红色&lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="CSS" scheme="https://kitety.github.io/tags/CSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Your connection is not private | 您的连接不是私密连接的解决办法</title>
+    <link href="https://kitety.github.io/posts/your-connection-is-not-private-solution.html"/>
+    <id>https://kitety.github.io/posts/your-connection-is-not-private-solution.html</id>
+    <published>2020-06-19T03:41:33.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;随着 Chrome 的升级会推荐使用 https 的模式开发，当我们使用 https 的模式进行开发时让然会出现以下提示：&lt;br&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20200923175214.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Chrome" scheme="https://kitety.github.io/tags/Chrome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chrome Network面板解析</title>
+    <link href="https://kitety.github.io/posts/chrome-network-panel-analysis.html"/>
+    <id>https://kitety.github.io/posts/chrome-network-panel-analysis.html</id>
+    <published>2020-06-14T11:15:20.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Network-打开方式&quot;   &gt;
+          &lt;a href=&quot;#Network-打开方式&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#Network-打开方式&quot; class=&quot;headerlink&quot; title=&quot;Network 打开方式&quot;&gt;&lt;/a&gt;Network 打开方式&lt;/h2&gt;
+      &lt;ul&gt;
+&lt;li&gt;在控制台打开的情况选择 Network 按钮&lt;/li&gt;
+&lt;li&gt;输入快捷键&lt;code&gt;Ctrl+Shift+P&lt;/code&gt;，再输入 &lt;code&gt;Network&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        &lt;h2 id=&quot;初识面板&quot;   &gt;
+          &lt;a href=&quot;#初识面板&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#初识面板&quot; class=&quot;headerlink&quot; title=&quot;初识面板&quot;&gt;&lt;/a&gt;初识面板&lt;/h2&gt;
+      &lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20200923175812.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Chrome" scheme="https://kitety.github.io/tags/Chrome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chrome Console面板解析</title>
+    <link href="https://kitety.github.io/posts/chrome-console-panel-analysis.html"/>
+    <id>https://kitety.github.io/posts/chrome-console-panel-analysis.html</id>
+    <published>2020-06-04T14:48:15.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;Console-面板的打开方式&quot;   &gt;
+          &lt;a href=&quot;#Console-面板的打开方式&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#Console-面板的打开方式&quot; class=&quot;headerlink&quot; title=&quot;Console 面板的打开方式&quot;&gt;&lt;/a&gt;Console 面板的打开方式&lt;/h3&gt;
+      &lt;ul&gt;
+&lt;li&gt;在控制台打开的情况选择 console 按钮&lt;/li&gt;
+&lt;li&gt;在 DevTool 的其他面板按 ESC 键打开面板（在开发者工具获得焦点的情况下）&lt;/li&gt;
+&lt;li&gt;在右上角的菜单打开（setting–show–console–drawer）&lt;/li&gt;
+&lt;li&gt;输入快捷键&lt;code&gt;Ctrl+Shift+P&lt;/code&gt;，再输入 &lt;code&gt;Console&lt;/code&gt;&lt;br&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/ia_10006.gif&quot; &gt;
+      &lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    
+    <category term="Chrome" scheme="https://kitety.github.io/tags/Chrome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTTP协议原理笔记</title>
+    <link href="https://kitety.github.io/posts/http-protocol-principle-notes.html"/>
+    <id>https://kitety.github.io/posts/http-protocol-principle-notes.html</id>
+    <published>2020-05-25T13:41:08.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20200923200114.png&quot; &gt;
+      &lt;/p&gt;
+
+        &lt;h2 id=&quot;导学&quot;   &gt;
+          &lt;a href=&quot;#导学&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#导学&quot; class=&quot;headerlink&quot; title=&quot;导学&quot;&gt;&lt;/a&gt;导学&lt;/h2&gt;
+      
+        &lt;h3 id=&quot;现状&quot;   &gt;
+          &lt;a href=&quot;#现状&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#现状&quot; class=&quot;headerlink&quot; title=&quot;现状&quot;&gt;&lt;/a&gt;现状&lt;/h3&gt;
+      &lt;ul&gt;
+&lt;li&gt;现在的 WEB 开发不理解 HTTP&lt;/li&gt;
+&lt;li&gt;HTTP 相当的重要&lt;/li&gt;
+&lt;li&gt;提升自身价值</summary>
+    
+    
+    
+    
+    <category term="HTTP" scheme="https://kitety.github.io/tags/HTTP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chrome Elements面板解析</title>
+    <link href="https://kitety.github.io/posts/chrome-elements-panel-analysis.html"/>
+    <id>https://kitety.github.io/posts/chrome-elements-panel-analysis.html</id>
+    <published>2020-05-05T03:00:03.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;Chrome-开发者工具的打开方式&quot;   &gt;
+          &lt;a href=&quot;#Chrome-开发者工具的打开方式&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#Chrome-开发者工具的打开方式&quot; class=&quot;headerlink&quot; title=&quot;Chrome 开发者工具的打开方式&quot;&gt;&lt;/a&gt;Chrome 开发者工具的打开方式&lt;/h3&gt;
+      &lt;p&gt;在开始面板分析之前，说下 DevTool 的打开方式。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;右键 Inspect(Ctrl+Shift+I)&lt;/li&gt;
+&lt;li&gt;F12 打开(或者光标放在地址栏 F12 打开)&lt;/li&gt;
+&lt;li&gt;Menu -&amp;gt; More tools -&amp;gt; Developer Tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20200923192035.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Chrome" scheme="https://kitety.github.io/tags/Chrome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chrome开发者工具总览</title>
+    <link href="https://kitety.github.io/posts/overview-of-chrome-developer-tools.html"/>
+    <id>https://kitety.github.io/posts/overview-of-chrome-developer-tools.html</id>
+    <published>2020-05-05T02:54:01.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;缘起&quot;   &gt;
+          &lt;a href=&quot;#缘起&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#缘起&quot; class=&quot;headerlink&quot; title=&quot;缘起&quot;&gt;&lt;/a&gt;缘起&lt;/h2&gt;
+      &lt;p&gt;起初本来是看到旁边的一个同事在看&lt;strong&gt;Application&lt;/strong&gt;面板的&lt;strong&gt;Service Workers&lt;/strong&gt;的功能，然后想到自己虽然说是工作也接近两年了，但是 Chrome 开发者工具的面板自己又有多少的理解呢？&lt;/p&gt;
+&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.jsdelivr.net/gh/kitety/blog_img@master/img/20200923174740.png&quot; &gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Chrome" scheme="https://kitety.github.io/tags/Chrome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>走，再走一波干海子</title>
+    <link href="https://kitety.github.io/posts/go-another-wave-of-dry-sea.html"/>
+    <id>https://kitety.github.io/posts/go-another-wave-of-dry-sea.html</id>
+    <published>2020-04-06T03:24:54.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;说起干海子，因为我并不玩抖音，也不刷微博，其实我并不了解。但是却不经意间去了两次了，一次是前公司 2019 年 6 月底的团建，还有一次就是昨天和朋友一起去。&lt;/p&gt;
+&lt;p&gt;
+        &lt;img   class=&quot;lazyload lazyload-gif&quot;
+          src=&quot;/images/loading.svg&quot; data-src=&quot;https://i.loli.net/2020/04/06/VkvcI1nTaeRMB28.png&quot;  alt=&quot;image.png&quot;&gt;
+      &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="干海子" scheme="https://kitety.github.io/tags/%E5%B9%B2%E6%B5%B7%E5%AD%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>春日的太阳</title>
+    <link href="https://kitety.github.io/posts/spring-sun.html"/>
+    <id>https://kitety.github.io/posts/spring-sun.html</id>
+    <published>2020-03-24T15:44:30.000Z</published>
+    <updated>2024-08-09T14:44:23.829Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="小诗" scheme="https://kitety.github.io/tags/%E5%B0%8F%E8%AF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JS箭头函数三连问：为何用、怎么用、何时用</title>
+    <link href="https://kitety.github.io/posts/three-consecutive-questions-about-js-arrow-functions-why-how-and-when.html"/>
+    <id>https://kitety.github.io/posts/three-consecutive-questions-about-js-arrow-functions-why-how-and-when.html</id>
+    <published>2020-03-22T01:42:08.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;在现代JS中最让人期待的特性就是关于箭头函数，用&lt;code&gt;=&amp;gt;&lt;/code&gt;来标识。箭头函数有两个主要的优点：其一是非常简明的语法，另外就是直观的作用域和&lt;code&gt;this&lt;/code&gt;的绑定。&lt;/p&gt;
+&lt;p&gt;因为这些优点，箭头函数比起其他形式的函数声明更加受欢迎。比如，受欢迎的&lt;code&gt;airbnb eslint configuration库&lt;/code&gt;会强制使用JavaScript箭头函数创建匿名函数。&lt;/p&gt;
+&lt;p&gt;然而，就像世间万物一样，箭头函数有一些优点也有一些“缺点”，这就需要在使用的时候做一些权衡了。&lt;/p&gt;
+&lt;p&gt;学习如何权衡是使用好箭头函数的关键。在这篇文章中我们将回顾箭头函数是怎样工作的，然后深入探讨，实际代码中箭头函数是如何改进我们代码的，以及一些箭头函数不推荐的情况。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="翻译" scheme="https://kitety.github.io/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="前端" scheme="https://kitety.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://kitety.github.io/posts/hello-world.html"/>
+    <id>https://kitety.github.io/posts/hello-world.html</id>
+    <published>2020-03-20T16:00:00.000Z</published>
+    <updated>2024-08-09T14:44:23.825Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://hexo.io/&quot; &gt;Hexo&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;! This is your very first post. Check &lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://hexo.io/docs/&quot; &gt;documentation&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://hexo.io/docs/troubleshooting.html&quot; &gt;troubleshooting&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt; or you can ask me on &lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://github.com/hexojs/hexo/issues&quot; &gt;GitHub&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
+
+        &lt;h2 id=&quot;Quick-Start&quot;   &gt;
+          &lt;a href=&quot;#Quick-Start&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;
+      
+        &lt;h3 id=&quot;Create-a-new-post&quot;   &gt;
+          &lt;a href=&quot;#Create-a-new-post&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;
+      &lt;figure class=&quot;highlight bash&quot;&gt;&lt;div class=&quot;table-container&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code class=&quot;hljs bash&quot;&gt;$ hexo new &lt;span class=&quot;hljs-string&quot;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
